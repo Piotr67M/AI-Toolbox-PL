@@ -1,0 +1,17 @@
+# Dane lokalne i poufne
+.env
+.env.*
+secrets/
+private/
+confidential/
+*.key
+*.pem
+*.pfx
+*.log
+
+# Pliki robocze
+temp/
+tmp/
+~$*
+.DS_Store
+Thumbs.db
